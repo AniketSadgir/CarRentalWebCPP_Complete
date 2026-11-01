@@ -1,0 +1,8 @@
+101|Toyota|Fortuner|5000|700|Diesel|7|2026|Available|
+102|Hyundai|Creta|3000|450|Petrol|5|2026|Available|
+104|Mahindra|Thar|4000|600|Diesel|4|2026|Available|
+105|Honda|City|2500|350|Petrol|5|2025|Available|
+106|Kia|Seltos|3200|475|Petrol|5|2026|Available|
+107|BMW|M5|12000|500|Electric|5|2026|Available|bmw.jpg
+108|mercedes|x5|9000|375|Hybrid|5|2026|Available|mercedes.jpg
+109|VERNA|t5|4500|450|Petrol|5|2026|Available|verna.jpg
